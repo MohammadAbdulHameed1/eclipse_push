@@ -1,9 +1,9 @@
 package cse_jenkins.push_github;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class cse_rocksTest2 {  // Don't extend TestCase
+public class cse_rocksTest2 {
 
     cse_rocks cal = new cse_rocks();
 
